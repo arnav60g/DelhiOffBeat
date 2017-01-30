@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Delhi OffBeat</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <!-- Category name for architectures -->
+    <string name="category_architecture">Architecture</string>
+
+    <!-- Category name for historic sites -->
+    <string name="category_history">Historic Sites</string>
+
+    <!-- Category name for shopping -->
+    <string name="category_shop">Shopping</string>
+
+    <!-- Category name for food -->
+    <string name="category_food">Food</string>
+
+    <string name="location">Click here for location</string>
+    <string name="start">Get Started</string>
+    <string name="discover">Discover Delhi\n As a Local !</string>
+
+</resources>
